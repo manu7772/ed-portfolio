@@ -1,0 +1,54 @@
+Configuration domaine personnalisé pour Github PAGES
+====================================================
+https://docs.github.com/fr/pages/configuring-a-custom-domain-for-your-github-pages-site
+https://docs.github.com/fr/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain
+
+
+Know domain config
+==================
+$ dig www.aequation.fr +nostats +nocomments +nocmd
+$ dig aequation.fr +nostats +nocomments +nocmd
+- example:
+$ dig WWW.EXAMPLE.COM +nostats +nocomments +nocmd
+> ;WWW.EXAMPLE.COM.                     IN      A
+> WWW.EXAMPLE.COM.              3592    IN      CNAME   YOUR-USERNAME.github.io.
+> YOUR-USERNAME.github.io.      43192   IN      CNAME   GITHUB-PAGES-SERVER .
+> GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+
+
+Pour les enregistrements A :
+
+$ dig aequation.fr +noall +answer -t A
+- example:
+$ dig EXAMPLE.COM +noall +answer -t A
+> EXAMPLE.COM    3600    IN A     185.199.108.153
+> EXAMPLE.COM    3600    IN A     185.199.109.153
+> EXAMPLE.COM    3600    IN A     185.199.110.153
+> EXAMPLE.COM    3600    IN A     185.199.111.153
+
+Pour les enregistrements AAAA :
+
+$ dig aequation.fr +noall +answer -t AAAA
+- example:
+$ dig EXAMPLE.COM +noall +answer -t AAAA
+> EXAMPLE.COM     3600    IN AAAA     2606:50c0:8000::153
+> EXAMPLE.COM     3600    IN AAAA     2606:50c0:8001::153
+> EXAMPLE.COM     3600    IN AAAA     2606:50c0:8002::153
+> EXAMPLE.COM     3600    IN AAAA     2606:50c0:8003::153
+
+
+
+Pour créer des enregistrements A, faites pointer votre domaine apex vers les adresses IP pour GitHub Pages.
+
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+
+Pour créer des enregistrements AAAA, faites pointer votre domaine apex vers les adresses IP pour GitHub Pages.
+
+2606:50c0:8000::153
+2606:50c0:8001::153
+2606:50c0:8002::153
+2606:50c0:8003::153
+
