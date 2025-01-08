@@ -5,7 +5,7 @@
     "image": "Portrait600_5.png",
     "email": "manu7772@gmail.com",
     "phone": "06 13 14 35 15",
-    "url": "https://johndoe.dev",
+    "url": "https://aequation.fr",
     "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
     "theme": "blue",
     "location": {
@@ -20,19 +20,26 @@
   },
   "work": [
     {
-      "name": "Développeur web / Graphiste",
-      "position": "Indépendant",
+      "name": "Aequation Webdesign",
+      "position": "Développeur web & Graphiste",
       "location": "Cerdon, France",
       "url": "https://aequation.fr",
       "startDate": "2013-01-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "INDÉPENDANT depuis 2013, je suis spécialisé dans la création de sites internet et d'applications mobiles. Je travaille également en tant que graphiste pour la création de supports de communication print et web.",
+      "achievements": [
+        "Site internet et application mobile (audioguide) pour les Grottes du Cerdon.",
+        "Site internet Maison Amaton à Poncin (01450)",
+        "+ Autre clients confidentiels"
+      ],
       "skills": [
         "PHP",
         "Symfony",
         "Tailwind",
         "React",
-        "GitHub"
+        "GitHub",
+        "Photohop",
+        "InDesign"
       ]
     },
     {
@@ -43,39 +50,39 @@
       "url": "https://www.seeyousoononthemoon.fr/",
       "startDate": "2011-01-01",
       "endDate": "2013-12-31",
-      "summary": "Gestion d'une agence de publicité spécialisée dans le domaine médical. Création de supports de communication print et web pour les laboratoires professionnels de santé en France et en Europe. Encadrement d'une équipe de 4 graphistes.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
+      "summary": "Gestion d'une équipe en agence de publicité spécialisée dans le domaine médical. Création de supports de communication print et web pour les laboratoires professionnels de santé en France et en Europe.",
+      "highlights": [],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Encadrement d'une équipe de 4 à 5 graphistes.",
+        "Relation clientèle et suivi de projets.",
+        "Réalisation et supervision des maquettes et travaux à destination de la clientèle de l'agence.",
+        "Contrôle des fichiers et suivi technique de fabrication/impression."
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "Quark XPress",
+        "Photoshop",
+        "Illustrator",
+        "InDesign"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
+      "name": "Thomas OAK",
+      "position": "Graphiste Concepteur Rédacteur",
+      "location_type": "Agence de communication",
+      "location": "Rouen (76)",
+      "startDate": "1999-06-01",
+      "endDate": "2009-03-31",
+      "summary": "Graphiste et suivi de dossiers clients en agence de communication",
+      "achievements": [
+        "Réalisations print et suivi de fabrication/impression pour Groupe Lucien Barrière Hôtels et Casinos de Luxe, Hôtels de standing, Pole Emploi, Institut National de la Boulangerie Pâtisserie, Mairies (Canteleu, Darnétal, Petit-Quevilly), CHU de Rouen..."
       ],
       "skills": [
-        "HTML",
-        "CSS"
+        "Quark XPress",
+        "Photoshop",
+        "Illustrator",
+        "InDesign",
+        "Formation PHP",
+        "Formation MySQL"
       ]
     }
   ],
