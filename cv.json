@@ -26,17 +26,19 @@
       "url": "https://aequation.fr",
       "startDate": "2013-01-01",
       "endDate": null,
-      "summary": "INDÉPENDANT depuis 2013, je suis spécialisé dans la création de sites internet et d'applications mobiles. Je travaille également en tant que graphiste pour la création de supports de communication print et web.",
+      "summary": "En tant qu'indépendant depuis 2013, je suis spécialisé dans la création de sites internet et d'applications mobiles. Je travaille également en tant que graphiste pour la création de supports de communication print.",
       "achievements": [
-        "Site internet et application mobile (audioguide) pour les Grottes du Cerdon.",
-        "Site internet Maison Amaton à Poncin (01450)",
-        "+ Autre clients confidentiels"
+        "Sites internet et applications mobiles.",
+        "Créations graphiques : logos, chartes graphiques, flyers, PLV, supports de communication print.",
+        "Travaux en sous-traitance pour des agences de communication.",
+        "Suivi des fabrications et impressions."
       ],
       "skills": [
         "PHP",
         "Symfony",
         "Tailwind",
         "React",
+        "Next.js",
         "GitHub",
         "Photohop",
         "InDesign"
@@ -72,9 +74,11 @@
       "location": "Rouen (76)",
       "startDate": "1999-06-01",
       "endDate": "2009-03-31",
-      "summary": "Graphiste et suivi de dossiers clients en agence de communication",
+      "summary": "Graphiste, rédacteur et suivi de dossiers clients en agence de communication",
       "achievements": [
-        "Réalisations print et suivi de fabrication/impression pour Groupe Lucien Barrière Hôtels et Casinos de Luxe, Hôtels de standing, Pole Emploi, Institut National de la Boulangerie Pâtisserie, Mairies (Canteleu, Darnétal, Petit-Quevilly), CHU de Rouen..."
+        "Conception et conseil en communication pour les entreprises locales et nationales.",
+        "Préparations print et suivi technique et de livraison.",
+        "Relations clients : Alpine (Dieppe), Groupe Lucien Barrière Hôtels et Casinos de Luxe, Hôtels de standing, Pole Emploi, Institut National de la Boulangerie Pâtisserie, Mairies (Canteleu, Darnétal, Petit-Quevilly), CHU de Rouen..."
       ],
       "skills": [
         "Quark XPress",
@@ -84,78 +88,92 @@
         "Formation PHP",
         "Formation MySQL"
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Permis de conduire A et B",
-      "startDate": "2092-07-01"
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
+      "name": "Laboratoire Claytone",
+      "position": "Responsable design produit interne",
+      "location_type": "Agence de communication interne",
+      "location": "Rouen (76)",
+      "url": "https://fr.linkedin.com/company/laboratoire-claytone-terrafor",
+      "startDate": "1996-09-01",
+      "endDate": "1999-05-31",
+      "summary": "Graphiste, rédacteur et suivi de dossiers clients en agence de communication pour le produit Terrafor VentrePlat.",
+      "achievements": [
+        "Conception graphique de tous les supports de communication : packagings / notices / étiquettes / PLV / présentoirs / annonces-presse / objets publicitaires et promotionnels / etc.",
+        "Suivi technique et bon à tirer sur tous les lieux de fabrication (France et Europe)."
+      ],
+      "skills": [
+        "Quark XPress",
+        "Photoshop",
+        "Illustrator"
       ]
     },
     {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
+      "name": "Studio EXÉ",
+      "position": "Graphiste illustrateur junior",
+      "location_type": "Agence de communication régionale",
+      "location": "Rouen (76)",
+      "startDate": "1995-07-01",
+      "endDate": "1996-08-31",
+      "summary": "Graphiste en alternance en temps plein.",
+      "achievements": [
+        "Illustation et mise en page pour les clients de l'agence.",
+        "Préparation des fichiers pour impression."
+      ],
+      "skills": [
+        "Quark XPress",
+        "Photoshop",
+        "Illustrator"
       ]
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "Service militaire",
+      "date": "1995-08-01",
+      "issuer": "Orléans / Évreux"
+    },
+    {
+      "name": "BTS Expression Visuelle",
+      "date": "1994-07-01",
+      "issuer": "Lycée Jeanne d'Arc, Rouen"
+    },
+    {
+      "name": "BAC G3 (commerce)",
+      "date": "1991-07-01",
+      "issuer": "Lycée Gustave Flaubert, Bihorel"
+    },
+    {
+      "name": "Permis de conduire A et B",
+      "date": "1990-07-13",
+      "issuer": "Voiture & moto"
     }
   ],
   "skills": [
     {
-      "name": "Figma",
+      "name": "Photoshop",
       "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
+      "keywords": []
     },
     {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "name": "InDesign",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Illustrator",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Symfony",
+      "level": "Expert",
+      "keywords": ["Framework"]
     },
     {
       "name": "HTML",
@@ -192,26 +210,6 @@
         "Frontend",
         "CSS Framework",
         "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
       ]
     },
     {
@@ -292,46 +290,46 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "Les Grottes du Cerdon",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "Site public avec interface d'administration métier.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Framework Symfony + MySQL",
+        "Gestion et affichage dynamique des dates de saisons"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://www.grotte-cerdon.com/"
     },
     {
-      "name": "Task Manager",
+      "name": "Audioguide Grottes du Cerdon",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "Application mobile pour la visite des Grottes.",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "ReactJS / Mobile design",
+        "Base de données pour stockage des contenus (images, textes, sons) et utilisation en hors connexion dans la grotte."
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "https://audioguide.grotte-cerdon.com/"
     },
     {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "name": "La Maison Amato",
+      "isActive": true,
+      "description": "Site La Maison Amato.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Framework Symfony + MySQL",
+        "Admin de gestion des contenus du site",
+        "Conception de plugin \"Avant/après\" pour les photos de chantiers"
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://maison-amato.com/"
+    },
+    {
+      "name": "Véto Alliance",
+      "isActive": true,
+      "description": "Site pour groupement de vétérinaires Normands.",
+      "highlights": [
+        "Avec interface d'administration métier",
+        "Gestion multi-administrateurs et multi-cliniques",
+        "Gestion d'annonces emploi et remplacements"
+      ],
+      "url": "http://www.vetoalliance.com/"
     }
   ]
 }
