@@ -6,7 +6,7 @@
     "email": "manu7772@gmail.com",
     "phone": "06 13 14 35 15",
     "url": "https://aequation.fr",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "summary": "Principalement orienté sur les supports de communication, mon parcours professionnel a souvent bénéficié d'expériences diverses qui m'ont permis d'appréhender ma capacité d'adaptation et satisfaire l'envie d'apprendre. Ne figurent pas dans la liste ci-après, ces expériences ont été très enrichissantes : création, lancement et succès d'un projet de restaurant, travaux en milieu agricole, emploi en imprimerie.",
     "theme": "blue",
     "location": {
       "address": "18 pont du Vrou",
@@ -37,6 +37,7 @@
         "PHP",
         "Symfony",
         "Tailwind",
+        "Javascript",
         "React",
         "Next.js",
         "GitHub",
@@ -55,8 +56,7 @@
       "summary": "Gestion d'une équipe en agence de publicité spécialisée dans le domaine médical. Création de supports de communication print et web pour les laboratoires professionnels de santé en France et en Europe.",
       "highlights": [],
       "responsibilities": [
-        "Encadrement d'une équipe de 4 à 5 graphistes.",
-        "Relation clientèle et suivi de projets.",
+        "Encadrement d'une équipe de 4 à 5 graphistes et relations clientèle.",
         "Réalisation et supervision des maquettes et travaux à destination de la clientèle de l'agence.",
         "Contrôle des fichiers et suivi technique de fabrication/impression."
       ],
@@ -78,7 +78,7 @@
       "achievements": [
         "Conception et conseil en communication pour les entreprises locales et nationales.",
         "Préparations print et suivi technique et de livraison.",
-        "Relations clients : Alpine (Dieppe), Groupe Lucien Barrière Hôtels et Casinos de Luxe, Hôtels de standing, Pole Emploi, Institut National de la Boulangerie Pâtisserie, Mairies (Canteleu, Darnétal, Petit-Quevilly), CHU de Rouen..."
+        "Clientèle diversifiée : Alpine (Dieppe), Groupe Lucien Barrière Hôtels et Casinos de Luxe, Hôtels de standing, Pole Emploi, Institut National de la Boulangerie Pâtisserie, Mairies (Canteleu, Darnétal, Petit-Quevilly), CHU de Rouen..."
       ],
       "skills": [
         "Quark XPress",
@@ -97,7 +97,7 @@
       "url": "https://fr.linkedin.com/company/laboratoire-claytone-terrafor",
       "startDate": "1996-09-01",
       "endDate": "1999-05-31",
-      "summary": "Graphiste, rédacteur et suivi de dossiers clients en agence de communication pour le produit Terrafor VentrePlat.",
+      "summary": "Graphiste, rédacteur et suivi technique pour le produit Terrafor VentrePlat.",
       "achievements": [
         "Conception graphique de tous les supports de communication : packagings / notices / étiquettes / PLV / présentoirs / annonces-presse / objets publicitaires et promotionnels / etc.",
         "Suivi technique et bon à tirer sur tous les lieux de fabrication (France et Europe)."
@@ -292,10 +292,11 @@
     {
       "name": "Les Grottes du Cerdon",
       "isActive": true,
-      "description": "Site public avec interface d'administration métier.",
+      "description": "Site web avec interface d'administration métier.",
       "highlights": [
         "Framework Symfony + MySQL",
-        "Gestion et affichage dynamique des dates de saisons"
+        "Gestion et affichage dynamique des dates de saisons",
+        "Interface d'admin de gestion complète des contenus"
       ],
       "url": "https://www.grotte-cerdon.com/"
     },
@@ -305,7 +306,8 @@
       "description": "Application mobile pour la visite des Grottes.",
       "highlights": [
         "ReactJS / Mobile design",
-        "Base de données pour stockage des contenus (images, textes, sons) et utilisation en hors connexion dans la grotte."
+        "Base de données pour stockage interne des contenus (images, textes, fichiers audio) pour utilisation hors connexion dans la grotte.",
+        "Application multilingue"
       ],
       "url": "https://audioguide.grotte-cerdon.com/"
     },
@@ -316,7 +318,7 @@
       "highlights": [
         "Framework Symfony + MySQL",
         "Admin de gestion des contenus du site",
-        "Conception de plugin \"Avant/après\" pour les photos de chantiers"
+        "Conception de plugin Javascript \"Avant/après\" pour les photos de chantiers"
       ],
       "url": "https://maison-amato.com/"
     },
