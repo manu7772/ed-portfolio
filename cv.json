@@ -41,8 +41,12 @@
         "React",
         "Next.js",
         "GitHub",
+        "Affinity Publisher",
+        "Affinity Photo",
+        "Affinity Designer",
         "Photohop",
-        "InDesign"
+        "InDesign",
+        "Illustrator"
       ]
     },
     {
@@ -129,13 +133,18 @@
   ],
   "certificates": [
     {
-      "name": "Service militaire",
+      "name": "Service militaire - Armée de l'air",
       "date": "1995-08-01",
-      "issuer": "Orléans / Évreux"
+      "issuer": "BA 123 Orléans / BA 105 Évreux"
     },
     {
-      "name": "BTS Expression Visuelle",
+      "name": "BTS Expression Visuelle / Images de communication",
       "date": "1994-07-01",
+      "issuer": "Lycée Jeanne d'Arc, Rouen"
+    },
+    {
+      "name": "Classe de mise à niveau en arts appliqués",
+      "date": "1992-07-01",
       "issuer": "Lycée Jeanne d'Arc, Rouen"
     },
     {
@@ -162,6 +171,21 @@
     },
     {
       "name": "Illustrator",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Affinity Publisher",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Affinity Photo",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "Affinity Designer",
       "level": "Expert",
       "keywords": []
     },
