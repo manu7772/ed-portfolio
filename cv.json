@@ -177,7 +177,7 @@
     },
     {
       "name": "HTML",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Web Development",
         "Frontend"
@@ -185,7 +185,7 @@
     },
     {
       "name": "CSS",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -194,7 +194,7 @@
     },
     {
       "name": "JavaScript",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -204,7 +204,7 @@
     },
     {
       "name": "Tailwind",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -290,17 +290,6 @@
   ],
   "projects": [
     {
-      "name": "Les Grottes du Cerdon",
-      "isActive": true,
-      "description": "Site web avec interface d'administration métier.",
-      "highlights": [
-        "Framework Symfony + MySQL",
-        "Gestion et affichage dynamique des dates de saisons",
-        "Interface d'admin de gestion complète des contenus"
-      ],
-      "url": "https://www.grotte-cerdon.com/"
-    },
-    {
       "name": "Audioguide Grottes du Cerdon",
       "isActive": true,
       "description": "Application mobile pour la visite des Grottes.",
@@ -323,15 +312,26 @@
       "url": "https://maison-amato.com/"
     },
     {
-      "name": "Véto Alliance",
+      "name": "Vétos Entraide",
       "isActive": true,
-      "description": "Site pour groupement de vétérinaires Normands.",
+      "description": "Site pour groupement de vétérinaires.",
       "highlights": [
         "Avec interface d'administration métier",
-        "Gestion multi-administrateurs et multi-cliniques",
-        "Gestion d'annonces emploi et remplacements"
+        "Gestion multi-administrateurs",
+        "Gestion de documents et d'archives PDF"
       ],
-      "url": "http://www.vetoalliance.com/"
+      "url": "https://vetos-entraide.com/"
+    },
+    {
+      "name": "GAEC La Claison",
+      "isActive": false,
+      "description": "Site pour gestion de commandes en ligne.",
+      "highlights": [
+        "Avec interface d'administration métier",
+        "Gestion des commandes de produits producteur local",
+        "Gestion des stocks et des livraisons"
+      ],
+      "url": "https://gaec-la-claison.com/"
     }
   ]
 }
